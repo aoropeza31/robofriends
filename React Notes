@@ -1,0 +1,23 @@
+React Notes:
+~~~~~~~~~~~~~~
+Components
+props
+state
+fetch()
+THE COMPONENTS LIFECYCLE
+--------------------------
+Mounting:
+
+- constructor()
+- render()
+- componentDidMount()
+
+Updating:
+
+- render()
+
+Unmounting:
+
+APIs
+-----
+this.setState
